@@ -1,9 +1,9 @@
 <h1 align="center"> Hola, dev!👋</h1>
 <h3 align="center">I'm Dedeepya. I am currently pursuing my Bachelor of Engineering in computer science</h3>
 
-- 🔭 I’m interested in **Artificial intelligence**
+- 🔭 I’m interested in **Data Science**
 
-- 🌱 I’m currently learning **Ml and DSA**
+- 🌱 I’m currently learning **Deep Learning and DSA**
 
 - 📫 How to reach me **dedeepya1402.mogilisetti@gmail.com**
 
