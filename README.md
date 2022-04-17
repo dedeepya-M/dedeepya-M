@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, dev!👋</h1>
 <h3 align="center">I'm Dedeepya. I am currently pursuing my Bachelor of Engineering in computer science</h3>
 
-- 🔭 I’m interested in **AI-ML, IOT and Blockchain technology**
+- 🔭 I’m interested in **Artificial intelligence**
 
 - 🌱 I’m currently learning **Ml and DSA**
 
